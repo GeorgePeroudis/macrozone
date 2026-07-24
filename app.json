@@ -39,6 +39,13 @@
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "2c9fd32a-bb49-4402-9bd2-3ee15d89bbc4"
+      }
+    },
+    "owner": "peroudiss-team"
   }
 }
